@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luyu2022
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, SQL and machine learning
+- 💞️ I’m looking to collaborate on data science and research
 - 📫 How to reach me ...
 
 <!---
